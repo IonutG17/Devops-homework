@@ -3,7 +3,6 @@ Colecție completă de scripturi Bash pentru cele 13 exerciții din cursul IT Sc
 
 
 📁 Structura proiectului
-Code
 exercitiul1/   → Așteaptă apariția unui fișier
 exercitiul2/   → Compararea fișierelor (2 fișiere / listă de fișiere)
 exercitiul3/   → Verificarea disponibilității unui site (status code)
@@ -17,19 +16,6 @@ exercitiul10/  → Adăugarea persistentă a unui director în PATH
 exercitiul11/  → Log rotation cu arhivare gzip
 exercitiul12/  → Adăugarea automată a shebang-ului în fișiere .sh
 exercitiul13/  → Implementarea comenzii which
-
-
-🚀 Cum rulezi scripturile
-Toate scripturile sunt executabile. Dacă nu sunt, le poți face executabile astfel:
-
-Code
-chmod +x nume_script.sh
-Apoi rulezi:
-
-Code
-./nume_script.sh
-Unele scripturi necesită argumente sau variabile de mediu.
-Acestea sunt documentate în comentariile fiecărui script.
 
 
 🧠 Descrierea exercițiilor
@@ -73,16 +59,6 @@ Detectează fișiere .sh fără shebang și îl inserează automat.
 
 13. Implementarea comenzii which
 Parcurge PATH-ul și caută executabile cu numele dat.
-
-
-🛠 Cerințe
-Linux / macOS / WSL
-
-Bash 4+
-
-Acces sudo pentru scripturile care modifică grupuri sau servicii
-
-curl, sha256sum, gzip (standard pe majoritatea distribuțiilor)
 
 
 📚 Bonusuri implementate
