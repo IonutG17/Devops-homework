@@ -1,22 +1,37 @@
-📌 Bash Exercises
-Colecție completă de scripturi Bash pentru cele 13 exerciții din cursul IT School.
+📌 Bash Exercises — IT School
+Colecție completă de scripturi Bash pentru cele 13 exerciții din cursul IT School
 
+######################################################################################
 
 📁 Structura proiectului
+
 exercitiul1/   → Așteaptă apariția unui fișier
+
 exercitiul2/   → Compararea fișierelor (2 fișiere / listă de fișiere)
+
 exercitiul3/   → Verificarea disponibilității unui site (status code)
+
 exercitiul4/   → Încărcarea variabilelor din config.txt în environment
+
 exercitiul5/   → Backup inteligent pentru un fișier (hash + timestamp)
+
 exercitiul6/   → Backup periodic pentru un director (hash + frecvență)
+
 exercitiul7/   → Listarea userilor dintr-un grup
+
 exercitiul8/   → Copierea userilor între grupuri
+
 exercitiul9/   → Restart automat pentru serviciul sshd
+
 exercitiul10/  → Adăugarea persistentă a unui director în PATH
+
 exercitiul11/  → Log rotation cu arhivare gzip
+
 exercitiul12/  → Adăugarea automată a shebang-ului în fișiere .sh
+
 exercitiul13/  → Implementarea comenzii which
 
+######################################################################################
 
 🧠 Descrierea exercițiilor
 1. Așteptarea apariției unui fișier
@@ -60,6 +75,7 @@ Detectează fișiere .sh fără shebang și îl inserează automat.
 13. Implementarea comenzii which
 Parcurge PATH-ul și caută executabile cu numele dat.
 
+######################################################################################
 
 📚 Bonusuri implementate
 Timeout pentru așteptarea fișierelor
@@ -78,6 +94,7 @@ Implementare completă a comenzii which
 
 Validări și exit codes standardizate
 
+######################################################################################
 
 🧩 Bune practici folosite
 Mesaje clare: [INFO], [ERROR], [SUCCESS]
@@ -94,8 +111,12 @@ Evitarea buclelor infinite necontrolate
 
 Structură modulară și ușor de navigat
 
+######################################################################################
 
-👨‍💻 Autor
-IonutG17
+👨‍💻 Autor 
+
+IonutG17 
+
 Cursant IT School — Bash Scripting
+
 2026
