@@ -11,7 +11,7 @@ Lista si exemple comenzi Git folosite in terminal in VSCode, ptr a lucra cu/in G
 
 git clone https://github.com/ITSchool-DevOps-Academy/Teme-curs_Guruian-Ionut
 
-(Dupa care trebuie sa si intri in folderul respectiv, in terminalul din VSCode, ptr ca ti s a creat pe local, exact cu numele repo-ului)
+# Dupa care trebuie sa si intri in folderul respectiv, in terminalul din VSCode, ptr ca ti s a creat pe local, exact cu numele repo-ului
 
 ---------------------------------------------------------------------------------------------------
 # Introducere fisier in GitHub. Se presupune ca ai creat deja fisierul si vrei sa il urci:
