@@ -8,6 +8,7 @@ Python Exercise 1_1
 4. Display this new variable on the console
 """
 
+
 #1. Variables definition
 var_string = 'Ionut'
 var_number = 10
