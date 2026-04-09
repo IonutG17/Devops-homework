@@ -55,8 +55,6 @@ Note to future self:
 
 Aparently the url "https://httpbin.org/status/303" returns 303 - redirect and thats why the status code is 200 
 and it gets placed in the Success txt file. 
-Play some more with the requests.get() because there is a paramater there that you can use to either use 
-the original status or the redirect status.
 
 Ideas to improve the code in the future:
 * play with the requests.get(), there is a paramater there that helps to either use the original status or the redirect status.
