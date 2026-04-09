@@ -1,0 +1,8 @@
+https://httpbin.org/status/201
+https://httpbin.org/status/400
+https://httpbin.org/status/500
+https://httpbin.org/status/404
+https://httpbin.org/status/201
+https://httpbin.org/status/503
+https://httpbin.org/status/200
+https://httpbin.org/status/303
